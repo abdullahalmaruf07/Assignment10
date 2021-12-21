@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "name": "Ambulence Service",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hour",
+        "call": "011+56766768",
+        "img": "https://images.unsplash.com/photo-1587745416684-47953f16f02f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=808&q=80"
+    },
+    {
+        "Id": 2,
+        "name": "Eco Test",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hours",
+        "call": "011+56766769",
+        "img": "https://images.unsplash.com/photo-1513224502586-d1e602410265?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG9zcGl0YWwlMjBtYWNoaW5lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+        "Id": 3,
+        "name": "X-ray Test",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hour",
+        "call": "011+56766769",
+        "img": "https://sc04.alicdn.com/kf/He6e6f77fbb0141c28a661cf2758f14e5b.jpg"
+    },
+    {
+        "Id": 4,
+        "name": "E.C.G Test",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hour",
+        "call": "011+56766769",
+        "img": "https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/MRI_Machine_pixabay.jpg?itok=BresqjJa"
+    },
+    {
+        "Id": 5,
+        "name": "Ultra Test",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hour",
+        "call": "011+56766769",
+        "img": "https://s.wsj.net/public/resources/images/BN-LX380_0104IN_J_20151230163314.jpg"
+    },
+    {
+        "Id": 6,
+        "name": "Pressura Test",
+        "details": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.",
+        "time": "24/7 Hour",
+        "call": "011+56766769",
+        "img": "https://images.unsplash.com/photo-1605654580413-5a7f24649936?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    }
+]
